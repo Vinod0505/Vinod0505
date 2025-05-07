@@ -21,7 +21,7 @@
 - Git & GitHub | Postman | Eclipse IDE | IntelliJ IDEA | VS Code | Maven | MySQL Workbench | Docker | AWS (Basic)
 
 💼 Work Experience
-- Backend Developer - Numeroalpha LLP (Sep 2024 - Present)
+- Backend Developer - Numeroalpha LLP (May 2024 - Present)
 - Developed and optimized REST APIs for seamless frontend-backend integration.
 - Implemented message-driven architecture using RabbitMQ for efficient service communication.
 - Designed workflows using Spring Integration, improving automation and data synchronization.
