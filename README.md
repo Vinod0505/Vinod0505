@@ -1,70 +1,71 @@
-## Hi there! 👋 I'm Vinod Bojaraju
+# Hi there! 👋 I'm Vinod Bojaraju
 
-🚀 Backend Developer | Java | Spring Boot | Microservices | RabbitMQ | SQL
+🚀 **Java Backend Developer** | Spring Boot | Microservices | RabbitMQ | Cloud Enthusiast  
 
-- Passionate about building scalable, efficient, and secure backend systems.
-- Currently working as a Backend Developer at Numeroalpha LLP.
-- Enthusiastic about Microservices, Cloud Computing, and Message-Driven Architectures.
-- Open to collaborations, learning, and contributing to open-source projects.
+I love building **scalable, efficient, and reliable backend systems**. Currently, I work at **NumeroAlpha LLP**, contributing to a **production-grade payroll system** for real-world payroll processing.  
 
-⚙️ Tech Stack
- 🔧 Backend
-- Core Java | OOP Principles | Collections | Exception Handling | JDBC | Hibernate | JSP | Servlets | Spring Boot | Spring Security | Spring MVC | Spring Integration | Microservices | REST APIs | RabbitMQ
+I enjoy solving complex problems, designing clean architectures, and collaborating with teams to deliver high-impact software.  
 
- ⛺️ Frontend
-- HTML5 | CSS3
+---
 
-📁 Database
-- MySQL | PostgreSQL | MongoDB | Database Normalization | Transaction Management
+## ⚡ Technologies & Tools
 
-🧰 Tools
-- Git & GitHub | Postman | Eclipse IDE | IntelliJ IDEA | VS Code | Maven | MySQL Workbench | Docker | AWS (Basic)
+**Backend:** Java | Spring Boot | Spring Data JPA | Spring Security | Spring Integration | REST APIs | Microservices | RabbitMQ  
 
-💼 Work Experience
-- Backend Developer - Numeroalpha LLP (May 2024 - Present)
-- Developed and optimized REST APIs for seamless frontend-backend integration.
-- Implemented message-driven architecture using RabbitMQ for efficient service communication.
-- Designed workflows using Spring Integration, improving automation and data synchronization.
-- Optimized database schemas and queries for better backend performance.
-  
-📌 Featured Projects
+**Databases:** MySQL | PostgreSQL | MongoDB | SQL Optimization | Database Design  
 
-🔹 Payroll System (Ongoing - Numeroalpha LLP)
+**DevOps & Cloud:** Docker | AWS ECS | GCP | Maven | Git | CI/CD | Production Monitoring  
 
-- Tech Stack: Java, Spring Boot, RabbitMQ, MySQL, REST APIs, Spring Integration
+**Testing:** JUnit | Unit & Integration Testing  
 
-- Designed asynchronous messaging workflows for efficient inter-service communication.
-- Developed and tested secure, scalable APIs using Spring Boot.
-- Worked on modular system architecture to simplify future feature expansions.
-  
-🔹 Hewlett Packard Enterprise Software Engineering Simulation
+**Frontend (Internal Dashboards):** HTML | CSS  
 
-- Tech Stack: Java, Spring Boot, REST APIs, JUnit
+---
 
-- Built a RESTful web service to manage employee data.
-- Developed and tested a Spring Boot application using JUnit.
-- Wrote a proposal for a scalable backend system.
-  
-📫 Connect with Me
+## 💼 Current Work
 
-📩 Email: vinodbojaraju@gmail.com
+**Backend Developer – NumeroAlpha LLP** *(Sep 2024 – Present)*  
 
-🔗 LinkedIn: Vinod Bojaraju
+- Developing backend microservices for **employee management, payroll calculation, tax processing, payslip generation, and reporting**.  
+- Implementing **asynchronous, message-driven workflows** using RabbitMQ & Google Cloud Pub/Sub.  
+- Automating batch payroll operations using **Spring Integration**.  
+- Optimizing **MySQL databases** for high-volume payroll transactions.  
+- Containerizing services with Docker and handling **deployments on AWS ECS & GCP**.  
+- Writing **unit and integration tests** to ensure stable, reliable code.  
+- Collaborating closely with frontend teams to integrate APIs seamlessly.  
 
-💻 GitHub: Vinod0505
+---
 
-🚀 Let's connect and build amazing software together!
-<!--
-**Vinod0505/Vinod0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Featured Projects
 
-Here are some ideas to get you started:
+### Payroll System – NumeroAlpha LLP
+*Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP*  
+- Built modular backend services for **real-time payroll processing**.  
+- Implemented **asynchronous communication** between services for reliability.  
+- Developed batch processing pipelines for monthly payroll runs.  
+- Managed **cloud deployments and production monitoring**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hewlett Packard Enterprise – Job Simulation (Forage)
+*Java | Spring Boot | REST APIs | JUnit*  
+- Developed a **RESTful web service** for employee management.  
+- Designed and tested backend workflows for scalability.  
+
+---
+
+## 🌱 What I’m Learning & Exploring
+
+- Cloud-native architectures & GCP advanced features  
+- Event-driven and reactive microservices  
+- Advanced SQL optimizations & database performance tuning  
+
+---
+
+## 🤝 Let’s Connect
+
+- ✉ [Email](mailto:vinodbojaraju@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinod-bojaraju-17h05/)  
+- 💻 [GitHub](https://github.com/Vinod0505)  
+
+---
+
+💬 Always open to **collaboration, mentorship, and exciting backend challenges**. Let’s build something great together!
