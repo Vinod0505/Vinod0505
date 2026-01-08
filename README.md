@@ -1,11 +1,10 @@
-# Hi there! 👋 I'm Vinod Bojaraju
+Hi there! 👋 I'm Vinod Bojaraju
 
-🚀 **Java Backend Developer** | Spring Boot | Microservices | RabbitMQ | Cloud Enthusiast  
+🚀 Java Backend Developer | Spring Boot | Microservices | Cloud & Messaging Systems
 
-I love building **scalable, efficient, and reliable backend systems**. Currently, I work at **NumeroAlpha LLP**, contributing to a **production-grade payroll system** for real-world payroll processing.  
+I am a Java Backend Developer passionate about building scalable, high-performance, and reliable backend systems. I specialize in designing clean microservice architectures, developing production-ready APIs, and implementing asynchronous, message-driven workflows for real-world applications.
 
-I enjoy solving complex problems, designing clean architectures, and collaborating with teams to deliver high-impact software.  
-
+I enjoy solving complex backend problems, optimizing databases, and delivering robust systems that can handle high-volume, mission-critical workloads.
 ---
 
 ## ⚡ Technologies & Tools
@@ -22,41 +21,52 @@ I enjoy solving complex problems, designing clean architectures, and collaborati
 
 ---
 
-## 💼 Current Work
+💼 What I Do
 
-**Backend Developer – NumeroAlpha LLP** *(Sep 2024 – Present)*  
+Design and develop backend microservices for enterprise-grade applications
 
-- Developing backend microservices for **employee management, payroll calculation, tax processing, payslip generation, and reporting**.  
-- Implementing **asynchronous, message-driven workflows** using RabbitMQ & Google Cloud Pub/Sub.  
-- Automating batch payroll operations using **Spring Integration**.  
-- Optimizing **MySQL databases** for high-volume payroll transactions.  
-- Containerizing services with Docker and handling **deployments on AWS ECS & GCP**.  
-- Writing **unit and integration tests** to ensure stable, reliable code.  
-- Collaborating closely with frontend teams to integrate APIs seamlessly.  
+Build scalable payroll and employee management systems
 
----
+Implement asynchronous communication using messaging queues
 
-## 📂 Featured Projects
+Automate batch and scheduled processes using Spring Integration
 
-### Payroll System – NumeroAlpha LLP
-*Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP*  
-- Built modular backend services for **real-time payroll processing**.  
-- Implemented **asynchronous communication** between services for reliability.  
-- Developed batch processing pipelines for monthly payroll runs.  
-- Managed **cloud deployments and production monitoring**.  
+Optimize database queries and schemas for high-volume transactions
 
-### Hewlett Packard Enterprise – Job Simulation (Forage)
-*Java | Spring Boot | REST APIs | JUnit*  
-- Developed a **RESTful web service** for employee management.  
-- Designed and tested backend workflows for scalability.  
+Containerize applications and manage cloud deployments
+
+Write well-tested, maintainable code following best practices
+
+Collaborate closely with frontend and cross-functional teams
 
 ---
 
-## 🌱 What I’m Learning & Exploring
+📂 Featured Projects
+Enterprise Payroll System
 
-- Cloud-native architectures & GCP advanced features  
-- Event-driven and reactive microservices  
-- Advanced SQL optimizations & database performance tuning  
+Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
+
+Developed modular backend services for payroll calculation, tax processing, payslip generation, and reporting
+
+Implemented asynchronous, message-driven workflows for reliability and scalability
+
+Built batch processing pipelines for monthly payroll execution
+
+Optimized MySQL performance for large-scale payroll data
+
+Deployed and monitored services in cloud environments
+
+---
+
+🌱 Currently Exploring
+
+Cloud-native and distributed system design
+
+Advanced GCP services & architecture patterns
+
+Event-driven and reactive microservices
+
+Deep-dive SQL performance optimization
 
 ---
 
