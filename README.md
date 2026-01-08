@@ -23,21 +23,21 @@ I enjoy solving complex backend problems, optimizing databases, and delivering r
 
 💼 What I Do
 
-Design and develop backend microservices for enterprise-grade applications
+- Design and develop backend microservices for enterprise-grade applications
 
-Build scalable payroll and employee management systems
+- Build scalable payroll and employee management systems
 
-Implement asynchronous communication using messaging queues
+- Implement asynchronous communication using messaging queues
 
-Automate batch and scheduled processes using Spring Integration
+- Automate batch and scheduled processes using Spring Integration
 
-Optimize database queries and schemas for high-volume transactions
+- Optimize database queries and schemas for high-volume transactions
 
-Containerize applications and manage cloud deployments
+- Containerize applications and manage cloud deployments
 
-Write well-tested, maintainable code following best practices
+- Write well-tested, maintainable code following best practices
 
-Collaborate closely with frontend and cross-functional teams
+- Collaborate closely with frontend and cross-functional teams
 
 ---
 
@@ -46,27 +46,27 @@ Enterprise Payroll System
 
 Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
 
-Developed modular backend services for payroll calculation, tax processing, payslip generation, and reporting
+- Developed modular backend services for payroll calculation, tax processing, payslip generation, and reporting
 
-Implemented asynchronous, message-driven workflows for reliability and scalability
+- Implemented asynchronous, message-driven workflows for reliability and scalability
 
-Built batch processing pipelines for monthly payroll execution
+- Built batch processing pipelines for monthly payroll execution
 
-Optimized MySQL performance for large-scale payroll data
+- Optimized MySQL performance for large-scale payroll data
 
-Deployed and monitored services in cloud environments
+- Deployed and monitored services in cloud environments
 
 ---
 
 🌱 Currently Exploring
 
-Cloud-native and distributed system design
+- Cloud-native and distributed system design
 
-Advanced GCP services & architecture patterns
+- Advanced GCP services & architecture patterns
 
-Event-driven and reactive microservices
+- Event-driven and reactive microservices
 
-Deep-dive SQL performance optimization
+- Deep-dive SQL performance optimization
 
 ---
 
