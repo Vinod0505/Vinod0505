@@ -25,7 +25,7 @@ I enjoy solving complex backend problems, optimizing databases, and delivering r
 
 - Design and develop backend microservices for enterprise-grade applications
 
-- Build scalable payroll and employee management systems
+- Build REST APIs for Microservices
 
 - Implement asynchronous communication using messaging queues
 
@@ -42,7 +42,8 @@ I enjoy solving complex backend problems, optimizing databases, and delivering r
 ---
 
 📂 Featured Projects
-Enterprise Payroll System
+
+ **Payroll System**
 
 Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
 
