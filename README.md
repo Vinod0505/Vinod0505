@@ -3,8 +3,8 @@ Hi there! 👋 I'm Vinod Bojaraju
 🚀 Java Backend Developer | Spring Boot | Microservices | Cloud & Messaging Systems
 
 I am a Java Backend Developer passionate about building scalable, high-performance, and reliable backend systems. I specialize in designing clean microservice architectures, developing production-ready APIs, and implementing asynchronous, message-driven workflows for real-world applications.
-
 I enjoy solving complex backend problems, optimizing databases, and delivering robust systems that can handle high-volume, mission-critical workloads.
+
 ---
 
 ## ⚡ Technologies & Tools
